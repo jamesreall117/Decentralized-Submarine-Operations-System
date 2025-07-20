@@ -5,8 +5,8 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
-[contracts.crew-certification]
-path = 'contracts/crew-certification.clar'
+[contracts.dive-mission-planning]
+path = 'contracts/dive-mission-planning.clar'
 clarity_version = 2
 epoch = 2.5
 [repl.analysis]
